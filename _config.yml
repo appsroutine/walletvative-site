@@ -1,0 +1,6 @@
+title: Walletvative
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+description: Walletvative – Smart Spending Tracker
