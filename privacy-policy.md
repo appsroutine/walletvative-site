@@ -32,6 +32,10 @@ We do **not** control the content of advertisements or any external links that m
 By interacting with an ad, you may be redirected to third-party services outside the App.  
 Walletvative and its developer are **not responsible** for any content, actions, or outcomes resulting from those external links.
 
+**All ad targeting and personalization settings are fully managed by Google AdMob and the user’s consent choices.**  
+**The developer does not directly access, process, or store any data used for ad personalization.**  
+**In the event of an error, malfunction, or third-party misconfiguration leading to unintended ad personalization, the developer shall not be held legally liable.**
+
 ---
 
 ## 3. In-App Purchases
@@ -58,6 +62,9 @@ Walletvative complies with:
 - **KVKK (Turkey)**
 
 Because we do not collect or process any personal user data externally, Walletvative qualifies as a **“local data-only”** app under these regulations.
+
+**All advertising, consent, and data processing are performed exclusively by Google AdMob in accordance with its own privacy policies and regulatory frameworks.**  
+**The developer of Walletvative does not act as a data controller or processor for any advertising data and cannot be held responsible for AdMob’s independent data handling practices.**
 
 ---
 
@@ -86,5 +93,19 @@ If you have questions or requests regarding privacy, data, or app use, please co
 
 ---
 
+## 10. Third-Party SDK Behavior Disclaimer
+Walletvative integrates Google AdMob solely to serve ads.  
+While the App ensures that all relevant user consents are collected through the official Google UMP SDK,  
+**the developer cannot technically control or audit how Google processes such data on its own servers.**
+
+Therefore, by using the App, you acknowledge that any data collected by Google AdMob is governed by Google’s own privacy policy.  
+Walletvative’s developer is **not responsible for Google’s independent data collection, usage, or ad-serving logic.**
+
+**Limitation of Liability:**  
+To the fullest extent permitted by applicable law, Walletvative and its developer shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of the App or third-party advertising services integrated within it.
+
+**Jurisdiction:**  
+This Privacy Policy shall be governed and construed in accordance with the laws of the Republic of Turkey and applicable international data protection frameworks.
+
 © 2025 Walletvative. All rights reserved.  
-Walletvative is a trademark of AppsRoutine Studio.
+
